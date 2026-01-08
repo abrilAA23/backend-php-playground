@@ -1,6 +1,6 @@
 <?php
 
-require "helpers.php";
+require "../src/helpers.php";
 $name = sanitizeName(" Abril ");
 $isDev = true;
 $age = 18;
